@@ -398,7 +398,7 @@
     "name": "XIO-P0",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -406,7 +406,7 @@
     "name": "XIO-P1",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -414,7 +414,7 @@
     "name": "XIO-P2",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -422,7 +422,7 @@
     "name": "XIO-P3",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -430,7 +430,7 @@
     "name": "XIO-P4",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -438,7 +438,7 @@
     "name": "XIO-P5",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -446,7 +446,7 @@
     "name": "XIO-P6",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
@@ -454,7 +454,7 @@
     "name": "XIO-P7",
     "supportedModes": [0, 1],
     "mode": -1,
-    "report": 0,
+    "report": 1,
     "analogChannel": 127,
     "chip": "PCF8574A"
   },
